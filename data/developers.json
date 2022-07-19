@@ -1,13 +1,5 @@
 [
     {
-        "first_name": "Alexis",
-        "last_name": "Ngabo",
-        "birthday": "2002-03-28",
-        "role": "frontend",
-        "experience": 3,
-        "released_projects": 10
-    },
-    {
         "first_name": "Doddy",
         "last_name": "Matabaro",
         "birthday": "2005-03-05",
@@ -54,6 +46,14 @@
         "role": "backend",
         "experience": 1,
         "released_projects": 2
+    },
+    {
+        "first_name": "Alexis",
+        "last_name": "Ngabo",
+        "birthday": "2002-03-28",
+        "role": "frontend",
+        "experience": 3,
+        "released_projects": 10
     },
     {
         "first_name": "Dieumerci",
