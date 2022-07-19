@@ -26,18 +26,3 @@ let liste_all = fetch("../data/developers.json")
     released_projects.textContent = develop["released_projects"];
     table.appendChild(tr);
 }))
-
-
-
-/*
-    [
-        {
-            "first_name": "Alexis",
-            "last_name": "Ngabo",
-            "birthday": "2002-03-28",
-            "role": "frontend",
-            "experience": 3,
-            "released_projects": 10
-        }
-    ]
-*/
