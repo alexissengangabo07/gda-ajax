@@ -6,3 +6,15 @@
     box-sizing: border-box;
     font-family: 'PT Sans', sans-serif;
 }
+body{
+    background-color: rgba(0, 0, 0, 0.834);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 100px;
+    margin: 100px;
+}
+div {
+    text-align: center;
+}
