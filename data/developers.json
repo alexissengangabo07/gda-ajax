@@ -62,5 +62,29 @@
         "role": "frontend",
         "experience": 1,
         "released_projects": 3
+    },
+    {
+        "first_name": "Jonathan",
+        "last_name": "Grafikart",
+        "birthday": "2008-09-20",
+        "role": "backend",
+        "experience": 2,
+        "released_projects": 2
+    },
+    {
+        "first_name": "Benjamin",
+        "last_name": "Codeur",
+        "birthday": "2000-09-20",
+        "role": "frontend",
+        "experience": 10,
+        "released_projects": 10
+    },
+    {
+        "first_name": "Traversy",
+        "last_name": "Media",
+        "birthday": "2000-09-20",
+        "role": "fullstack",
+        "experience": 2,
+        "released_projects": 1
     }
 ]
