@@ -86,5 +86,21 @@
         "role": "fullstack",
         "experience": 2,
         "released_projects": 1
+    },
+    {
+        "first_name": "Clever",
+        "last_name": "Programmer",
+        "birthday": "2008-12-10",
+        "role": "backend",
+        "experience": 11,
+        "released_projects": 20
+    },
+    {
+        "first_name": "Prince",
+        "last_name": "Algorithm",
+        "birthday": "2004-11-02",
+        "role": "frontend",
+        "experience": 3,
+        "released_projects": 6
     }
 ]
