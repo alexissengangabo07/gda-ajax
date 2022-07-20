@@ -1,8 +1,66 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'PT Sans', sans-serif;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'PT Sans', sans-serif;
 }
+body{
+background-color: rgba(0, 0, 0, 0.834);
+color: white;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+gap: 100px;
+margin: 100px;
+}
+section{
+display: flex;
+flex-direction: column;
+margin: 8vh auto;
+padding: 20px;
+border: 1px solid white;
+border-radius: 5px;
+min-width: 406.28px;
+max-width: 406.28px;
+max-height: 557px;
+min-height: 557px;
+height: auto;
+gap : 200px;
+}
+body div:nth-child(1){
+margin-top: 50px;
+}
+body div:nth-child(2){
+display: flex;
+justify-self: center;
+align-items: center;
+gap : 10px;
+}
+div {
+text-align: center;
+}
+body div:nth-child(2) h2{
+width: 255px;
+height: 30px;
+border: 1px solid white;
+border-radius: 5px;
+}
+button{
+border-radius: 5px;
+line-height: 2;
+padding: 0 20px;
+font-size: 1rem;
+text-align: center;
+color : black;
+text-shadow: 1px 1px 1px white;
+background-color: rgb(255, 221, 3);
+max-width : 120px;
+cursor: pointer;
+
+}
+button:hover{
+background-color: rgb(255, 208, 0);
+border: 1px solid white;
+} 

@@ -1,27 +1,19 @@
 [
     {
-        "first_name": "Alexis",
-        "last_name": "Ngabo",
-        "birthday": "2002-03-28",
-        "role": "frontend",
-        "experience": 3,
-        "realized_projects": 14
-    },
-    {
         "first_name": "Doddy",
         "last_name": "Matabaro",
         "birthday": "2005-03-05",
         "role": "backend",
         "experience": 5,
-        "realized_projects": 8
+        "released_projects": 8
     },
     {
         "first_name": "Samuel",
         "last_name": "Mbabhazi",
         "birthday": "2008-04-20",
         "role": "frontend",
-        "experience": 4,
-        "realized_projects": 10
+        "experience": 1,
+        "released_projects": 4
     },
     {
         "first_name": "Benjamin",
@@ -29,7 +21,7 @@
         "birthday": "2001-03-28",
         "role": "fullstack",
         "experience": 6,
-        "realized_projects": 20
+        "released_projects": 20
     },
     {
         "first_name": "Alexandre",
@@ -37,15 +29,15 @@
         "birthday": "2000-03-03",
         "role": "fullstack",
         "experience": 5,
-        "realized_projects": 15
+        "released_projects": 15
     },
     {
         "first_name": "Bonheur",
         "last_name": "Bushiri",
         "birthday": "2010-05-12",
         "role": "backend",
-        "experience": 3,
-        "realized_projects": 14
+        "experience": 1,
+        "released_projects": 6
     },
     {
         "first_name": "Valentin",
@@ -53,7 +45,15 @@
         "birthday": "2000-03-28",
         "role": "backend",
         "experience": 1,
-        "realized_projects": 2
+        "released_projects": 2
+    },
+    {
+        "first_name": "Alexis",
+        "last_name": "Ngabo",
+        "birthday": "2002-03-28",
+        "role": "frontend",
+        "experience": 3,
+        "released_projects": 10
     },
     {
         "first_name": "Dieumerci",
@@ -61,6 +61,46 @@
         "birthday": "2009-02-20",
         "role": "frontend",
         "experience": 1,
-        "realized_projects": 3
+        "released_projects": 3
+    },
+    {
+        "first_name": "Jonathan",
+        "last_name": "Grafikart",
+        "birthday": "2008-09-20",
+        "role": "backend",
+        "experience": 2,
+        "released_projects": 2
+    },
+    {
+        "first_name": "Benjamin",
+        "last_name": "Codeur",
+        "birthday": "2000-09-20",
+        "role": "frontend",
+        "experience": 10,
+        "released_projects": 10
+    },
+    {
+        "first_name": "Traversy",
+        "last_name": "Media",
+        "birthday": "2000-09-20",
+        "role": "fullstack",
+        "experience": 2,
+        "released_projects": 1
+    },
+    {
+        "first_name": "Clever",
+        "last_name": "Programmer",
+        "birthday": "2008-12-10",
+        "role": "backend",
+        "experience": 11,
+        "released_projects": 20
+    },
+    {
+        "first_name": "Prince",
+        "last_name": "Algorithm",
+        "birthday": "2004-11-02",
+        "role": "frontend",
+        "experience": 3,
+        "released_projects": 6
     }
 ]
