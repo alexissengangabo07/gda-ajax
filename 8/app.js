@@ -23,3 +23,5 @@ button.addEventListener('click', () => {
     }
 
 }) 
+
+//AJAX AVEC FETCH
