@@ -5,4 +5,21 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'PT Sans', sans-serif;
+   
+}
+body{
+    background-color: aqua;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#liste{
+    margin: 40px;
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    text-align: center;
 }
