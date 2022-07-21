@@ -18,7 +18,7 @@ body{
 }
 #liste{
     width: 500px;
-    height: 400px;
+    height: 350px;
     background-color: white;
     text-align: center;
     border-radius: 10px;
@@ -47,10 +47,10 @@ th,td{
 }
 
 .tbody:nth-child(even){
-    background-color: #f3f3f3;
+    background-color: #dbd8d8e3;
     margin: 40px;
     width: 400px;
-    height: 400px;
+    height: 40px;
     background-color: white;
     text-align: center;
 }
