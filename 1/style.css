@@ -17,7 +17,6 @@ body{
     align-items: center;
 }
 #liste{
-    
     width: 500px;
     height: 400px;
     background-color: white;
@@ -49,4 +48,9 @@ th,td{
 
 .tbody:nth-child(even){
     background-color: #f3f3f3;
+    margin: 40px;
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    text-align: center;
 }

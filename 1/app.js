@@ -1,4 +1,5 @@
-const form=document.querySelector('.res');
+const form=document.querySelector('.res')
+
 fetch("./developers.json",{
     method:'GET'
 })
