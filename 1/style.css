@@ -32,7 +32,7 @@ body{
     box-shadow: 0 5px 50px rgba(0,0,0,0.15);
     cursor: pointer;
     margin: 40px auto;
-    border: 2px solid midnightblue;
+    border-bottom: 5px solid midnightblue;
     
 }
 #header{
