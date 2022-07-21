@@ -8,7 +8,7 @@
    
 }
 body{
-    background-color: aqua;
+    background-color:cadetblue
 }
 .content{
     display: flex;
@@ -17,6 +17,37 @@ body{
     align-items: center;
 }
 #liste{
+    width: 500px;
+    height: 400px;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.res{
+    border-collapse: collapse;
+    min-width: 400px;
+    width: auto;
+    box-shadow: 0 5px 50px rgba(0,0,0,0.15);
+    cursor: pointer;
+    margin: 40px auto;
+    border: 2px solid midnightblue;
+    
+}
+#header{
+    background-color: blue;
+    color: beige;
+    text-align: left;
+}
+
+th,td{
+    text-align: left;
+    padding: 15px 20px;
+    border: 1px solid #ddd;
+}
+
+.tbody:nth-child(even){
+    background-color: #f3f3f3;
     margin: 40px;
     width: 400px;
     height: 400px;
