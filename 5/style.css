@@ -37,7 +37,7 @@ tbody>tr:nth-of-type(even) {
 }
 
 tbody>tr:hover {
-    background-color: #06d69e3d;
+    background-color: red;
     transition: all 1s ease;
     cursor: default;
 }
