@@ -6,3 +6,73 @@
     box-sizing: border-box;
     font-family: 'PT Sans', sans-serif;
 }
+body{
+    background-color: aquamarine;
+}
+h2{
+    text-align: center;
+    color: blue;
+}
+#mytable td, #mytable th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+.container {
+    margin: 10px 15px;
+}
+
+.t-container {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 625px;
+}
+
+td {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tbody>tr:nth-child(1){
+    background-color: white;
+}
+tbody>tr:nth-of-type(even) {
+    background-color: rgb(192, 188, 188);
+}
+
+tbody>tr:hover {
+    background-color: red;
+    transition: all 1s ease;
+    cursor: default;
+}
+
+thead th {
+    color: #fff;
+    background-color: blue;
+    border-color: #32383e;
+}
+
+.t-container {
+    width: 98%;
+    position: relative;
+    overflow-x: auto;
+
+}
+
+table td {
+    padding: .75em;
+    vertical-align: top;
+    border-top: 1px solid #ceced1;
+    padding-left: 1.5em;
+}
+
+table th {
+    padding: .75em;
+    vertical-align: top;
+    border-top: 1px solid #ceced1;
+    text-align: left;
+    padding-left: 1.5em;
+}
