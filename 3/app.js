@@ -1,4 +1,4 @@
-const tableBody = document.querySelector('#tableBody');
+const tableBody = document.querySelector(`#tableBody`);
 let filtredData = [];
 
 (async function() {
